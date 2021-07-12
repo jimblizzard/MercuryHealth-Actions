@@ -1,7 +1,7 @@
 ### Application Information
 Application Name: SuperCoolFunApp
 Business Justification: Boss said so
-Link to Application Repo: nkpatterson/MercuryHealth-Web
+Link to Application Repo: jimblizzard/MercuryHealth-Web
 
 ### Technical Information
 **Host Environment Type:**
